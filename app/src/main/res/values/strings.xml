@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PixivTool</string>
+    <string name="pegar">Pegar</string>
+    <string name="separar">Separar</string>
+    <string name="coloca_el_texto_de_pixiv">Coloca el texto de pixiv</string>
+    <string name="pegaeltextoaqui">Pega el texto aqui</string>
+    <string name="publicaci_n">Publicación</string>
+    <string name="url">URL</string>
+    <string name="copiar">COPIAR</string>
+</resources>
